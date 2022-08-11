@@ -1,0 +1,26 @@
+!!com.ryu.encrypt.miner.proxy.model.configs.SyncToClientFileConfig
+brandName: bxTKXqSW3oYc9AqRewyftg==
+clientDownload: za2Z6vD5+UT/JUDGfZAwl5PLXmmtf/2+JAR8VAsQnSw3DDjcxeSGhzSGWPk+0RBu
+confuse: 9r0Omq7KFoS7oEc5rvqTiA==
+logo: null
+mode: 7Yzq/gOqhiLTi+DwLNTxdw==
+notice: wPJhbfKKhdcVj3tNVHjeKMS88u8YHBN3eAVLjeHKSyU=
+qq: WksKtxYLih6s8z13VQNszQ==
+secretKey: ZwRnM9c7JdXzLX4+yVSYIzfTtmLrhVPkR/I0UhOw3cIuBjl0m6VBnUAetf56rDqu
+syncServer: sFCeprMVT+UE06TvhLTHhZAfFA2zeuMjeSOTN7ieqdc=
+syncToClientServerConf:
+- coin: uwS28/G/wCoKcT59ovE6BA==
+  enable: 9r0Omq7KFoS7oEc5rvqTiA==
+  machine: sA3fJhT/1L7TQd+UvdxOsw==
+  pairKey: null
+  serverProxy: PmlqnOYquxrJbVnMcKIOUEH+OTs0gFb8j/pNldqcQtk=
+  serverProxyAlias: ceXSg9p4tE1fWUayk6tLlGjhsoOCcUvJUUYaePJ3iUw=
+- coin: uwS28/G/wCoKcT59ovE6BA==
+  enable: 9r0Omq7KFoS7oEc5rvqTiA==
+  machine: sA3fJhT/1L7TQd+UvdxOsw==
+  pairKey: USyt9WaisjVLqWSM6zYMk5YwrljeaBohGRAMQJfgIkM=
+  serverProxy: BxRGgQcIg4kfEU530g1MAfe/vCllHYjiMe3tJN5XMrA=
+  serverProxyAlias: USyt9WaisjVLqWSM6zYMk5YwrljeaBohGRAMQJfgIkM=
+telegram: 7ZBFyrSfEqDU3/+O4CfurByMVZiM9rArdz8A6Z8TZuc=
+tutorial: LjVREpYNVA0X9EQDBix7IwqQ+3DhPtIfy2hVu53zzdI=
+version: M6yEkpnlyxmAnt3v1VScUg==
